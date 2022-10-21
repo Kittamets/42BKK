@@ -1,0 +1,65 @@
+body, html {
+    height: 100%;
+    margin: 0;
+  }
+  
+  .head, .foot {
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+  }
+  .head {
+    background-image: url("https://i.pinimg.com/originals/cb/43/44/cb4344a1582dbeab39c57f34f560209d.jpg");
+    min-height: 100%;
+  }
+  
+  .caption {
+    position: absolute;
+    left: 0;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: #000;
+  }
+  
+  .caption span.text {
+    color: #fff;
+    font-size: 25px;
+    letter-spacing: 10px;
+    text-shadow: 0 0 8px black;
+  }
+  
+  .middle{
+    background-color: black;
+    padding:80px;
+    height: 100px;
+  }
+
+  .mtext{
+    color: white;
+    text-align: center;
+    margin: 120px;
+  }
+  
+
+  .foot {
+    background-image: url("https://i.imgflip.com/4fn75n.jpg");
+    min-height: 100%;
+  }
+
+  .fcaption {
+    position: absolute;
+    left: 0;
+    top: 170%;
+    width: 100%;
+    text-align: center;
+  }
+
+  .fcaption span.ftext {
+    color: #fff;
+    font-size: 25px;
+    letter-spacing: 10px;
+    text-shadow: 0 0 8px black;
+  }

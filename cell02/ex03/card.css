@@ -1,0 +1,70 @@
+body{
+    position: relative;
+    text-align: center;
+    margin: 15px;
+    background-color: rgb(244, 244, 244);
+}
+
+.instaID{
+    font-size: 30px;
+}
+
+.level{
+    font-size: 20px;
+}
+
+.schname{
+    font-size: 20px;
+    color: gray;
+}
+
+img{
+    width: 420px;
+}
+
+.profileCard{
+    width: 420px;
+    height: 700px;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%,0);
+    border: solid 1px;
+    margin: 5px;
+    box-shadow: 0px 0px 20px 1px rgb(145, 145, 145) ;
+}
+
+.profileContent{
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%,0);
+    margin-top: 5px;
+}
+
+.Logo a i{
+    color: black;
+    font-size: 30px;
+}
+
+.btn {
+    text-decoration: none;
+    font-size: 30px;
+}
+
+.border{
+    color: white;
+    background-color: black;
+    width: 420px;
+    position: absolute;
+    transform: translate(-50%,0);
+    left: 50%;
+    top: 237px;
+    
+}
+
+.border:hover{
+    background-color: gray;
+}
+
+.Logo a i:hover{
+    opacity: 0.5;
+}
