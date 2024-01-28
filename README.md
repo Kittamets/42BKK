@@ -1,6 +1,7 @@
 # 42BKK-Discovery-Piscine
-Topics coverd:
-- basic command prompt (cmd)
-- shell
-- frontend
+Coverd topics:
+- Linux CLI/Shell Script
+- HTML
+- CSS
+- Basic JavaScript/JQuery
 
