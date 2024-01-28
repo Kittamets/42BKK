@@ -1,7 +1,6 @@
 # 42BKK-Discovery-Piscine
-This camp teach me about
+Topics coverd:
 - basic command prompt (cmd)
 - shell
 - frontend
 
-This repositories store work which did during 42Bangkok Camp
